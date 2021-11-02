@@ -1,0 +1,1 @@
+.\.coverage\swagger-coverage-commandline-1.4.2\bin\swagger-coverage-commandline -s .\swagger.json -i .\swagger-coverage-output\
